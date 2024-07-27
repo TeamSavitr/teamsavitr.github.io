@@ -6,6 +6,13 @@
     font-style: normal;
     scroll-behavior:smooth ;
 }
+.about-text p{
+  line-height: 1.6;
+}
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
 @media (max-width: 900px) {
   header#navbar.navbar{
     padding-left: 10px;
