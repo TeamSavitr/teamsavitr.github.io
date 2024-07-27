@@ -655,6 +655,9 @@ padding-bottom: 50px;
 
 
 }
+.image-accordian p{
+    font-size: 15px;
+}
 
 @media (max-width: 895px) {
   .elementor-widget-container{
