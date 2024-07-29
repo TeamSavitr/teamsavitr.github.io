@@ -533,9 +533,9 @@ padding-bottom: 50px;
 
 
 
-.ford{
+.partner01{
   display: inline-block;
-  background-image: url(uploads/sponsor-logos-02.png);
+  background-image: url(uploads/partner-logo-01-1.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -545,18 +545,18 @@ padding-bottom: 50px;
   -moz-transition:all 0.5s;
 }
 
-.ford > img {
+.partner01 > img {
   vertical-align: top;
   width: 100%;
   transition:all 0.5s;
 }
 
-.ford > img:hover {
+.partner01 > img:hover {
   opacity:0;
   width: 100%;
 }
 
-.ford:hover {
+.partner01:hover {
   background-size: 100%;
 }
 
@@ -564,7 +564,7 @@ padding-bottom: 50px;
 
 .bosch{
   display: inline-block;
-  background-image: url(uploads/sponsor-logos-08.png);
+  background-image: url(uploads/partner-logo-02-1.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -593,7 +593,7 @@ padding-bottom: 50px;
 
 .ansys{
   display: inline-block;
-  background-image: url(uploads/sponsor-logos-10.png);
+  background-image: url(uploads/partner-logo-03-1.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
