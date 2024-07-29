@@ -562,7 +562,7 @@ padding-bottom: 50px;
 
 
 
-.bosch{
+.partner02{
   display: inline-block;
   background-image: url(uploads/partner-logo-02-1.png);
   background-size: 100%;
@@ -574,24 +574,24 @@ padding-bottom: 50px;
   -moz-transition:all 0.5s;
 }
 
-.bosch > img {
+.partner02 > img {
   vertical-align: top;
   width: 100%;
   transition:all 0.5s;
 }
 
-.bosch > img:hover {
+.partner02 > img:hover {
   opacity:0;
   width: 100%;
 }
 
-.bosch:hover {
+.partner02:hover {
   background-size: 100%;
 }
 
 
 
-.ansys{
+.partner03{
   display: inline-block;
   background-image: url(uploads/partner-logo-03-1.png);
   background-size: 100%;
@@ -603,26 +603,108 @@ padding-bottom: 50px;
   -moz-transition:all 0.5s;
 }
 
-.ansys > img {
+.partner03 > img {
   vertical-align: top;
   width: 100%;
   transition:all 0.5s;
 }
 
-.ansys > img:hover {
+.partner03 > img:hover {
   opacity:0;
   width: 100%;
 }
 
-.ansys:hover {
+.partner03:hover {
   background-size: 100%;
 }
 
 
 
 
+.partner04{
+  display: inline-block;
+  background-image: url(uploads/trans.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition:all 0.5s;
+  -webkit-transition:all 0.5s;
+  -o-transition:all 0.5s;
+  -moz-transition:all 0.5s;
+}
+
+.partner04 > img {
+  vertical-align: top;
+  width: 100%;
+  transition:all 0.5s;
+}
+
+.partner04 > img:hover {
+  opacity:0;
+  width: 100%;
+}
+
+.partner04:hover {
+  background-size: 100%;
+}
 
 
+
+.partner05{
+  display: inline-block;
+  background-image: url(uploads/partner-logo-04-1.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition:all 0.5s;
+  -webkit-transition:all 0.5s;
+  -o-transition:all 0.5s;
+  -moz-transition:all 0.5s;
+}
+
+.partner05 > img {
+  vertical-align: top;
+  width: 100%;
+  transition:all 0.5s;
+}
+
+.partner05 > img:hover {
+  opacity:0;
+  width: 100%;
+}
+
+.partner05:hover {
+  background-size: 100%;
+}
+
+
+
+.partner06{
+  display: inline-block;
+  background-image: url(uploads/trans.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition:all 0.5s;
+  -webkit-transition:all 0.5s;
+  -o-transition:all 0.5s;
+  -moz-transition:all 0.5s;
+}
+
+.partner06 > img {
+  vertical-align: top;
+  width: 100%;
+  transition:all 0.5s;
+}
+
+.partner06 > img:hover {
+  opacity:0;
+  width: 100%;
+}
+
+.partner06:hover {
+  background-size: 100%;
+}
 
 
 
